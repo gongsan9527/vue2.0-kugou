@@ -1,17 +1,17 @@
 # vue-music
 
-> A Vue.js project
+> DEMO (http://loosen.cc/vue/2/#/new)
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 初始化
 npm install
 
-# serve with hot reload at localhost:8080
+# 本地预览
 npm run dev
 
-# build for production with minification
+# 发布
 npm run build
 ```
 
