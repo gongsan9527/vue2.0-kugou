@@ -11,7 +11,7 @@ npm install
 # 本地预览
 npm run dev
 
-# 发布
+# 发布打包
 npm run build
 ```
 
